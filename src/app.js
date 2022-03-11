@@ -8,7 +8,7 @@ import {
   formatUser,
   findByName,
   filterByMajor,
-} from "./src/controllers/UserController";
+} from "../src/controllers/UserController";
 
 /**
  * Fungsi Main.
